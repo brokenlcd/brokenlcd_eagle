@@ -1,4 +1,12 @@
-*
 .gitignore
 !*.sch
 !*.brd
+*.b?[#123456789]
+*.s?[#123456789]
+*.G*
+*.TXT
+*.txt
+*.dri
+*.pro
+*.tar.gz
+*.gpi
